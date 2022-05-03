@@ -1,28 +1,12 @@
 <h1 align="center">
-  Zoomkoding Gatsby Blog
+  Ubi's Gatsby Blog
 </h1>
 
-<p align="center">
-  <a href="https://github.com/zoomkoding/zoomkoding-gatsby-blog/blob/master/LICENSE">
-    <img src="https://img.shields.io/badge/license-0BSD-blue.svg" alt="Zoomkoding Gatsby Blog is released under the 0BSD license." />
-  </a>
-  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" />
-  <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" alt="contributions welcome" />
-</p>
-
-**Demo Websites**: [**English**](https://zoomkoding.netlify.app) | [**Korean**](https://www.zoomkoding.com)
-
-[**English README.md**](https://github.com/zoomkoding/zoomkoding-gatsby-blog/blob/master/README.en.md)
 
 ## 👋 소개
 
-블로그를 직접 운영하면서 조금씩 그려봤던 이상적인 개발 블로그 테마를 Gatsby를 통해 만들어보게 되었습니다.  
-이 테마가 블로그를 운영하고자 하시는 분들에게 자신의 이야기를 잘 담을 수 있는 공간이 되었으면 좋겠습니다.🙌
+[블로그](https://github.com/zoomKoding/zoomkoding-gatsby-blog) 커스텀
 
-블로그 테마가 맘에 드셨다면 아래 과정을 통해 자신의 블로그를 만들어보시길 바랍니다!
-
-> 혹시 만드시는 과정에서 궁금하신 점이나 어려움이 있으시다면 [이슈](https://github.com/zoomKoding/zoomkoding-gatsby-blog/issues/new)를 통해 문의 남겨주세요!  
-> ⭐️는 블로그 운영에 큰 힘이 됩니다!😊
 
 ## ✨ 기능
 
@@ -42,12 +26,8 @@
 
 ## 🚀 시작하기
 
-Github Page나 Netlify 중 원하시는 배포 환경에 따라 다음 과정을 진행하시면 빠르게 블로그를 만드실 수 있습니다.
+Netlify 중 원하시는 배포 환경에 따라 다음 과정을 진행하시면 빠르게 블로그를 만드실 수 있습니다.
 
-### 🦖 GitHub Page로 만들기
-
-깃헙 페이지를 통해 블로그를 만드시다면 아래 글을 참고해주세요!  
-[Gatsby 테마로 GitHub Blog 만들기](https://www.zoomkoding.com/gatsby-github-blog/)
 
 ### 🔧 Netlify로 만들기
 
