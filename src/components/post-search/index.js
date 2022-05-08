@@ -18,7 +18,12 @@ function PostSearch({ posts }) {
       }}
       filterOptions={(options, { inputValue }) =>
         options.filter(
-          ({ title, categories }) => title.includes(inputValue) || categories.includes(inputValue),
+          ({ title, categories }) => {
+            valueToLower = inputValue.toLowerCase()
+            titleToLower = title.toLowerCase()
+            categoryToLower = categories.toLowerCase()
+            return titleToLower.includes(valueToLower) || categoryToLower.includes(valueToLower)
+          }
         )
       }
       getOptionLabel={(option) => option.title}
