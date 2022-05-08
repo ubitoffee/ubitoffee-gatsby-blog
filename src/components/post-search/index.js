@@ -20,8 +20,8 @@ function PostSearch({ posts }) {
         options.filter(
           ({ title, categories }) => {
             const valueToLower = inputValue.toLowerCase();
-            const titleToLower = title ? title.toLowerCase() : '';
-            const categoryToLower = categories ? categories.toLowerCase() : '';
+            const titleToLower = title.toLowerCase();
+            const categoryToLower = categories.map(c => c.toLowerCase());
             return titleToLower.includes(valueToLower) || categoryToLower.includes(valueToLower);
           }
         )
