@@ -19,10 +19,10 @@ function PostSearch({ posts }) {
       filterOptions={(options, { inputValue }) =>
         options.filter(
           ({ title, categories }) => {
-            valueToLower = inputValue.toLowerCase()
-            titleToLower = title.toLowerCase()
-            categoryToLower = categories.toLowerCase()
-            return titleToLower.includes(valueToLower) || categoryToLower.includes(valueToLower)
+            const valueToLower = inputValue.toLowerCase();
+            const titleToLower = title.toLowerCase();
+            const categoryToLower = categories.toLowerCase();
+            return titleToLower.includes(valueToLower) || categoryToLower.includes(valueToLower);
           }
         )
       }
