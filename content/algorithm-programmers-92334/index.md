@@ -1,7 +1,7 @@
 ---
 emoji: ⁉️
 title: Programmers 92334. 2022 KAKAO BLIND RECRUITMENT 신고 결과 받기
-date: '2022-05-10 21:42:00'
+date: '2022-05-11 01:45:00'
 author: Ubi
 tags: 알고리즘 Programmers
 categories: 알고리즘
