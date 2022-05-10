@@ -9,7 +9,7 @@ module.exports = {
       repo: 'ubitoffee/ubitoffee-gatsby-blog',
     },
   },
-  ga: '0', // Google Analytics Tracking ID
+  ga: 'G-EC58VYXD6E', // Google Analytics Tracking ID
   author: {
     name: `정성엽`,
     bio: {
