@@ -7,9 +7,9 @@ tags: 알고리즘 LeetCode
 categories: 알고리즘
 ---
 
-Site : `LeetCode`
-Topic : `Array`
-Difficulty : `Easy`
+Site : `LeetCode`  
+Topic : `Array`  
+Difficulty : `Easy`  
 
 
 전달받은 배열 nums 에서 val을 제외하고 sorting 시키는 문제
